@@ -1,4 +1,4 @@
-Description apps: This application automatically performs a right-click every 2 minutes to keep your workstation active and prevent it from entering sleep mode or triggering screensavers
+Description apps: This application automatically performs a left-click every 3 minutes to keep your workstation active and prevent it from entering sleep mode or triggering screensavers
 
 Requirements:
 -------------
